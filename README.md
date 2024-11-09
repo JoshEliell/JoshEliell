@@ -20,7 +20,7 @@ Git, GitHub
 Linux, Postman, MATLAB, Apache Cordova, Arduino
 
 🔭 **Current Work**  
-I'm currently working at Grupo VORDCAB S.A. de C.V. on [SAVIA](https://vordcab.cloud/) and [SAVIA 2 & SAVIA X]https://grupovordcab.cloud/).
+I'm currently working at Grupo VORDCAB S.A. de C.V. on [SAVIA RH](https://vordcab.cloud/) and [SAVIA 2 AND SAVIA X](https://grupovordcab.cloud/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
